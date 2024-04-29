@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/devopstryouts/Azure_DevOps_Tryout/_apis/build/status%2Fdevops-tryouts.pipelines-java?branchName=main)](https://dev.azure.com/devopstryouts/Azure_DevOps_Tryout/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
